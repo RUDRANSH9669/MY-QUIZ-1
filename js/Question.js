@@ -17,13 +17,11 @@ class Question {
   }
 
   hide(){
-    this.title.hide();
+     this.title.hide();
     this.input1.hide();
     this.button.hide();
-   
+    this.input2.hide();
     this.message.hide();
-    //Add hide() for questions, options & input box
-
 
 
 
